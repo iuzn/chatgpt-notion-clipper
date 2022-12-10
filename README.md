@@ -1,4 +1,4 @@
-# **chrome-extension**
+# **ChatGPT Notion Clipper Extension**
 
 This is a template for creating a new Chrome extension. It includes the necessary files and directories to get started, as well as a basic **`manifest.json`** file that defines the extension's metadata and permissions.
 
